@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">2013mid</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title">MidExam in Mobile Programming Class(2013-02)</string>
+    <string name="choice">Choice</string>
+    <string name="input1">Input1</string>
+    <string name="input3">Input1/2</string>
+    <string name="input2">Input2</string>
+    <string name="save">Save</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="image">Image</string>
+    <string name="check">Cheched)</string>
+    <string name="canclebutton">Cancelled.</string>
+
+</resources>
